@@ -5,7 +5,7 @@
 ## Project Overview
 This is a modern, fast-paced 2D arcade game built with **Unity**. It features a polished mobile experience with local multiplayer, adjustable physics, and an AI opponent. Developed as a practical application of my studies at **CSJ Academy**, this project showcases my ability to bridge the gap between **Graphic Design** and **C# Game Programming**.
 
-<img src="imgs/ping-pong-custom-settings.jpg" alt="Game Modes" width="800">
+<img src="imgs/ping-pong-custom-settings.jpeg" alt="Custom Game Settings" width="800">
 
 ## Tech Stack & Tools
 - **Engine:** Unity 2022+
