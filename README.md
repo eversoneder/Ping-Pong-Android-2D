@@ -34,7 +34,7 @@ This project is currently in **Version 2.9**.
 
 ## Download & Play
 You can download the latest build (v2.9) for Android to test the gameplay here:
-[**Download APK from OneDrive**]([https://onedrive.live.com](https://onedrive.live.com/?redeem=aHR0cHM6Ly8xZHJ2Lm1zL2YvYy8zNWE3M2NmYTUzZjk3ZWMyL0lnQmtuSnBKRXlPNVNxZ0JDVFZvakgzakFld1gtd2F1MFI3MWhvWFFSa0J1bVkwP2U9NnkyeHky&cid=35A73CFA53F97EC2&id=35A73CFA53F97EC2%21sbc220f68f63147e8a0175a43fb87bc3f&parId=35A73CFA53F97EC2%21s499a9c6423134ab9a8010935688c7de3&o=OneUp))
+[**Download APK from OneDrive**](https://github.com/eversoneder/Ping-Pong-Android-2D/releases/download/v2.9/2PlayersPingPong-v2dot9.apk)
 
 ## Contact
 For any queries or collaboration opportunities, please contact me at:
