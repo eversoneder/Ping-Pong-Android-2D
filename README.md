@@ -34,7 +34,7 @@ This project is currently in **Version 2.9**.
 
 ## Download & Play
 You can download the latest build (v2.9) for Android to test the gameplay here:
-[**Download APK From Releases Page**](https://github.com/eversoneder/Ping-Pong-Android-2D/releases/tag/v2.9)
+[**Download APK From Releases Page**](https://github.com/eversoneder/Ping-Pong-Android-2D/releases/)
 
 ## Contact
 For any queries or collaboration opportunities, please contact me at:
